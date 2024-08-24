@@ -1,0 +1,35 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/facultad/arqui/alu/simulation/modelsim
+valu
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1724527504
+!i10b 1
+!s100 bX5fTdMN=m`N8]:PY=h4J0
+IJX5GN0o_7D<<m@`]@6PGT3
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 alu_sv_unit
+S1
+R0
+w1724527291
+8D:/facultad/arqui/alu/alu.sv
+FD:/facultad/arqui/alu/alu.sv
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1724527504.000000
+!s107 D:/facultad/arqui/alu/alu.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/facultad/arqui/alu|D:/facultad/arqui/alu/alu.sv|
+!i113 1
+o-sv -work work
+!s92 -sv -work work +incdir+D:/facultad/arqui/alu
+tCvgOpt 0
