@@ -1,0 +1,35 @@
+|mux
+d3[0] => s.DATAB
+d3[1] => s.DATAB
+d3[2] => s.DATAB
+d3[3] => s.DATAB
+d2[0] => s.DATAA
+d2[1] => s.DATAA
+d2[2] => s.DATAA
+d2[3] => s.DATAA
+d1[0] => s.DATAB
+d1[1] => s.DATAB
+d1[2] => s.DATAB
+d1[3] => s.DATAB
+d0[0] => s.DATAA
+d0[1] => s.DATAA
+d0[2] => s.DATAA
+d0[3] => s.DATAA
+h1 => s.OUTPUTSELECT
+h1 => s.OUTPUTSELECT
+h1 => s.OUTPUTSELECT
+h1 => s.OUTPUTSELECT
+h0 => s.OUTPUTSELECT
+h0 => s.OUTPUTSELECT
+h0 => s.OUTPUTSELECT
+h0 => s.OUTPUTSELECT
+h0 => s.OUTPUTSELECT
+h0 => s.OUTPUTSELECT
+h0 => s.OUTPUTSELECT
+h0 => s.OUTPUTSELECT
+s[0] <= s.DB_MAX_OUTPUT_PORT_TYPE
+s[1] <= s.DB_MAX_OUTPUT_PORT_TYPE
+s[2] <= s.DB_MAX_OUTPUT_PORT_TYPE
+s[3] <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
